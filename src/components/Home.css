@@ -1,0 +1,56 @@
+.head-text {
+    color: aliceblue;
+    font-family: "Afacad", sans-serif;
+    font-size: 70px;
+    font-weight: bold;
+    text-align: center;
+    padding-top: 17%;
+    position: relative;
+    z-index: -1;
+}
+
+.gradient-text {
+    color: #00FFFF; 
+    background-image: linear-gradient(135deg, #00FFFF 40%, #FF00FF 75%); 
+    background-clip: text; 
+    -webkit-background-clip: text; 
+    -webkit-text-fill-color: transparent; 
+}
+
+.description {
+    color: aliceblue;
+    font-family: "Afacad", sans-serif;
+    font-size: 30px;
+    text-align: center;
+    margin-top: 2.5%;
+}
+
+.text {
+    margin-top: 0%;
+    margin-bottom: 0%;
+}
+
+.text:hover {
+    color: #00FFFF; 
+    background-image: linear-gradient(135deg, #00FFFF 40%, #FF00FF 75%); 
+    background-clip: text; 
+    -webkit-background-clip: text; 
+    -webkit-text-fill-color: transparent;
+}
+
+.Img-star-large {
+    z-index: -2;
+    right: 18%;
+    bottom: 38%;
+    position: absolute;
+    scale: 0.4;
+}
+
+.Img-star-small {
+    z-index: -3;
+    right: 20%;
+    bottom: 37%;
+    position: absolute;
+    scale: 0.4;
+
+}

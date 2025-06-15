@@ -1,0 +1,19 @@
+.navigation {
+  background: linear-gradient(to bottom, #00ffff 0%, #ff00ff 100%);
+  width: 100vw;
+  height: 50px ;
+  color: aliceblue;
+  position: fixed;
+  display: flex;
+  justify-content: flex-end;
+  align-items: center;
+  gap: 4rem;
+  font-family: "Afacad", sans-serif;
+  font-weight: bold;
+  font-size: 30px;
+}
+
+.project-nav {
+  margin-right: 4rem;
+  cursor: pointer;
+}
