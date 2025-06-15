@@ -15,6 +15,9 @@ function Home() {
             <p className='text'>
                 I’m learning to build web projects and explore front-end development.
             </p>
+            <p className='text'>
+                test Git eiei
+            </p>
             <div className='Img-star-large'>
                 <img src="star-large.png" alt="star" />
             </div>
